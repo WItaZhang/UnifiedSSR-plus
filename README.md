@@ -55,7 +55,7 @@ Supported dataset names (pass via `--data_name`):
 | Dataset | `--emb_size` | `--enc_num_layer` | `--sub_seq_num` |
 |---|---|---|---|
 | Amazon-EL | 112 | 1 | 1 |
-| Amazon-CL | 128 | 2 | 2 |
+| Amazon-CL | 128 | 2 | 1 |
 | JDsearch | 128 | 3 | 1 |
 
 ### 1. Pre-training
